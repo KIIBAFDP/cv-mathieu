@@ -1,0 +1,40 @@
+table, caption, th, td {
+
+    border: 2px solid skyblue;
+      border-collapse: collapse;
+    
+    }
+    caption, th, td {
+    
+    padding: 8px;
+    
+    }
+    
+    caption {
+    
+    background-color: lightgrey;
+    
+    }
+    
+    th {
+    
+    background-color: blue;
+    
+    }
+    
+    td {
+    
+    background-color: lightblue;
+    
+    }
+
+  h1{
+    text-align: center;
+    border: 2px solid;
+    padding: 5px;
+    background-color: antiquewhite;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    margin: auto;
+    width: 800px;
+  }
